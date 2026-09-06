@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "StudyX",
+    "slug": "studyx",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.studyx.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0B1220"
+      }
+    },
+    "plugins": ["expo-video"]
+  }
+}
